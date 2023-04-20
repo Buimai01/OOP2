@@ -5,82 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6afd730b-3306-42f5-99fb-d698e28a2d07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_2/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_3/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_4/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Con_nguoi_sinh_vien_nhan_vien/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Lop_Animal_va_Cat/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/Lop_Animal_va_interface_edible/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/src/mobile/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/Flashlamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/StaticProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/StaticProperty2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/Static_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/chuyen_adam_eva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/testflashlamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case_study/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/Kiem_tra_so_nguyen_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/Thiet_ke_menu_cho_ung_dung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/cannang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/chuyendoitien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/hienthiloichao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/hienthithoigian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/hinh_vuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/khaibaovasusungbien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/tinhsongay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/toantu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/ung_dung_cho_vay_tien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/ungdungdocthanhchu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_date_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_date_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_hinh_chu_nhat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_hinh_chu_nhat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/mo_ta_hinh_chu_nhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/mo_ta_hinh_chu_nhat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/stopWatch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/stopwatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/Hien_thi_so_nguyen_to_nho_hon_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/dao_nguoc_phan_tu_cua_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/hien_thi_20_so_nguyen_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/tim_gia_tri_lon_nhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/tim_gia_tri_nho_nhat_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/tim_gia_tri_trong_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/tim_uoc_so_chung_lon_nhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mang/xoa_phan_tu_khoi_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +220,7 @@
       <workItem from="1681953516402" duration="43000" />
       <workItem from="1681953851323" duration="2777000" />
       <workItem from="1681957471257" duration="279000" />
-      <workItem from="1681963850249" duration="617000" />
+      <workItem from="1681963850249" duration="1582000" />
     </task>
     <servers />
   </component>
