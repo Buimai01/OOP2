@@ -1,3 +1,5 @@
+package mang;
+
 import java.util.Scanner;
 
 public class tim_gia_tri_lon_nhat {

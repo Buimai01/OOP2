@@ -1,9 +1,9 @@
 package Acess_Modifier;
 
-public class den_pin {
+public class Battery {
     int energy;
-    den_pin() {
-        energy = 100;
+    Battery() {
+        energy = 10;
     }
     public void setEnergy( int energy) {
         this.energy= energy;

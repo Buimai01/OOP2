@@ -1,11 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6afd730b-3306-42f5-99fb-d698e28a2d07" name="Changes" comment="" />
+    <list default="true" id="6afd730b-3306-42f5-99fb-d698e28a2d07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_2/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_3/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/BT_6_4/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Con_nguoi_sinh_vien_nhan_vien/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Lop_Animal_va_Cat/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/Lop_Animal_va_interface_edible/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/mobile/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/Flashlamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/StaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/StaticProperty2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/Static_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/chuyen_adam_eva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acess_Modifier/testflashlamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Case_study/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De_Cuong/bai9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ke_Thua/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/Kiem_tra_so_nguyen_to.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/Thiet_ke_menu_cho_ung_dung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/cannang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/chuyendoitien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/hienthiloichao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/hienthithoigian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/hinh_vuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/khaibaovasusungbien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/tinhsongay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/toantu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/ung_dung_cho_vay_tien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMLTvavonglap/ungdungdocthanhchu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_date_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_date_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_hinh_chu_nhat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/lop_hinh_chu_nhat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/mo_ta_hinh_chu_nhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/mo_ta_hinh_chu_nhat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/stopWatch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lop_va_doi_tuong/stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/Hien_thi_so_nguyen_to_nho_hon_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/dao_nguoc_phan_tu_cua_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/hien_thi_20_so_nguyen_to.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/tim_gia_tri_lon_nhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/tim_gia_tri_nho_nhat_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/tim_gia_tri_trong_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/tim_uoc_so_chung_lon_nhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mang/xoa_phan_tu_khoi_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/on_bai_tap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LR8IoTdzJC4ku1MR6zGaz7hEzZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,10 +113,113 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/Java/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\untitled\src\mang" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BT_6_4.Test">
+    <configuration name="BT_6_4.Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_6_4.Test" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_6_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT_6_4.Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_6_4.Test" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_6_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT_6_4.Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_6_4.Test" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_6_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT_6_4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_6_4.Test" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_6_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_6_4.Test" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_6_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mo_ta_hinh_chu_nhat2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.mo_ta_hinh_chu_nhat2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lop_va_doi_tuong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BT_6_4.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BT_6_4.Test (3)" />
+        <item itemvalue="Application.BT_6_4.Test (2)" />
+        <item itemvalue="Application.BT_6_4.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,8 +228,88 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675822459722</updated>
-      <workItem from="1675822461482" duration="1000" />
+      <workItem from="1675822461482" duration="9996000" />
+      <workItem from="1675841724469" duration="5612000" />
+      <workItem from="1675905658264" duration="820000" />
+      <workItem from="1676251748594" duration="2901000" />
+      <workItem from="1676269568462" duration="8342000" />
+      <workItem from="1676423742623" duration="4322000" />
+      <workItem from="1676443708718" duration="1312000" />
+      <workItem from="1676453740316" duration="8000" />
+      <workItem from="1676860896215" duration="6286000" />
+      <workItem from="1676941939853" duration="872000" />
+      <workItem from="1676946288977" duration="1248000" />
+      <workItem from="1676949100020" duration="2152000" />
+      <workItem from="1676961332644" duration="3975000" />
+      <workItem from="1676969549517" duration="1787000" />
+      <workItem from="1677028255534" duration="2814000" />
+      <workItem from="1677048166381" duration="631000" />
+      <workItem from="1677212259057" duration="1427000" />
+      <workItem from="1677467399250" duration="3480000" />
+      <workItem from="1677480454151" duration="2036000" />
+      <workItem from="1677548498468" duration="3123000" />
+      <workItem from="1677565766851" duration="5722000" />
+      <workItem from="1677633469000" duration="5542000" />
+      <workItem from="1677719453478" duration="2639000" />
+      <workItem from="1677722137717" duration="1993000" />
+      <workItem from="1677731656350" duration="2855000" />
+      <workItem from="1677805900982" duration="5675000" />
+      <workItem from="1678154226711" duration="24000" />
+      <workItem from="1678156347571" duration="4376000" />
+      <workItem from="1678238764194" duration="358000" />
+      <workItem from="1678324954860" duration="115000" />
+      <workItem from="1678326330042" duration="2737000" />
+      <workItem from="1678336269751" duration="5856000" />
+      <workItem from="1678376661521" duration="531000" />
+      <workItem from="1678411931168" duration="6757000" />
+      <workItem from="1678676457465" duration="1721000" />
+      <workItem from="1678757354518" duration="14000" />
+      <workItem from="1678758351099" duration="328000" />
+      <workItem from="1678759418609" duration="327000" />
+      <workItem from="1678842531603" duration="607000" />
+      <workItem from="1678941622279" duration="51000" />
+      <workItem from="1679274737068" duration="58000" />
+      <workItem from="1679276025308" duration="20934000" />
+      <workItem from="1679361499962" duration="130000" />
+      <workItem from="1679362009238" duration="6190000" />
+      <workItem from="1679447324659" duration="9999000" />
+      <workItem from="1679534151747" duration="2030000" />
+      <workItem from="1679881234903" duration="10773000" />
+      <workItem from="1679971905517" duration="3000" />
+      <workItem from="1680138982877" duration="7247000" />
+      <workItem from="1680246672798" duration="4683000" />
+      <workItem from="1680484905742" duration="12109000" />
+      <workItem from="1680499307751" duration="1934000" />
+      <workItem from="1681350202535" duration="2548000" />
+      <workItem from="1681371732613" duration="7035000" />
+      <workItem from="1681391152179" duration="830000" />
+      <workItem from="1681443623298" duration="3314000" />
+      <workItem from="1681455646323" duration="6044000" />
+      <workItem from="1681712128176" duration="2813000" />
+      <workItem from="1681740442533" duration="3497000" />
+      <workItem from="1681780392318" duration="8644000" />
+      <workItem from="1681867230655" duration="15677000" />
+      <workItem from="1681913651857" duration="7785000" />
+      <workItem from="1681921517336" duration="2000" />
+      <workItem from="1681953516402" duration="43000" />
+      <workItem from="1681953851323" duration="2777000" />
+      <workItem from="1681957471257" duration="279000" />
+      <workItem from="1681963850249" duration="617000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NMLTvavonglap/test2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

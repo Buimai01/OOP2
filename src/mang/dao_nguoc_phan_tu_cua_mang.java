@@ -1,3 +1,5 @@
+package mang;
+
 import java.util.Scanner;
 
 public class dao_nguoc_phan_tu_cua_mang {

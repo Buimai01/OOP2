@@ -1,9 +1,9 @@
 package Acess_Modifier;
 
-public class den_pin2 {
+public class Flashlamp {
     boolean status;
     Battery denPin;
-    den_pin2() {
+    Flashlamp() {
         status = false;
         denPin = null;
     }

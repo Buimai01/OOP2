@@ -1,3 +1,5 @@
+package mang;
+
 import java.util.Scanner;
 
 public class tim_uoc_so_chung_lon_nhat {

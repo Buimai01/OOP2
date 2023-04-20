@@ -1,3 +1,5 @@
+package NMLTvavonglap;
+
 public class khaibaovasusungbien {
     public static void main(String[] args) {
         int i = 10;

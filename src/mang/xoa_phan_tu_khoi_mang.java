@@ -1,3 +1,5 @@
+package mang;
+
 import java.util.Scanner;
 
 public class xoa_phan_tu_khoi_mang {

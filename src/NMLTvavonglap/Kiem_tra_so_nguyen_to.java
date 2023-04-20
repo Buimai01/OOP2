@@ -1,3 +1,5 @@
+package NMLTvavonglap;
+
 import java.util.Scanner;
 
 public class Kiem_tra_so_nguyen_to {

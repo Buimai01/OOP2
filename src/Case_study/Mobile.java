@@ -1,6 +1,7 @@
-package on_bai_tap;
+package Case_study;
 
 public class Mobile {
+  public int id;
   public String manufacturer;
   public String color;
   public int width;
@@ -9,6 +10,7 @@ public class Mobile {
   public int energy;
 
   public Mobile() {
+    this.id = id;
     this.manufacturer = "Nokia";
     this.color = "Màu xanh";
     this.width = 30;
@@ -16,30 +18,40 @@ public class Mobile {
     this.thickness = 1;
     this.energy = 10;
   }
-
-  public Mobile(String manufacturer) {
+  public Mobile (int id) {
+    this.id = id;
+  }public Mobile (String manufacturer) {
     this.manufacturer = manufacturer;
   }
 
-  public Mobile(String manufacturer, String color) {
+  public Mobile(int id,String manufacturer) {
+    this.id = id;
+    this.manufacturer = manufacturer;
+  }
+
+  public Mobile(int id,String manufacturer, String color) {
+    this.id = id;
     this.manufacturer = manufacturer;
     this.color = color;
   }
 
-  public Mobile(String manufacturer, String color, int width) {
+  public Mobile(int id,String manufacturer, String color, int width) {
+    this.id = id;
     this.manufacturer = manufacturer;
     this.color = color;
     this.width = width;
   }
 
-  public Mobile(String manufacturer, String color, int width, int height) {
+  public Mobile(int id,String manufacturer, String color, int width, int height) {
+    this.id = id;
     this.manufacturer = manufacturer;
     this.color = color;
     this.width = width;
     this.height = height;
   }
 
-  public Mobile(String manufacturer, String color, int width, int height, int thickness) {
+  public Mobile(int id,String manufacturer, String color, int width, int height, int thickness) {
+    this.id = id;
     this.manufacturer = manufacturer;
     this.color = color;
     this.width = width;
@@ -47,13 +59,20 @@ public class Mobile {
     this.thickness = thickness;
   }
 
-  public Mobile(String manufacturer, String color, int width, int height, int thickness, int energy) {
+  public Mobile(int id,String manufacturer, String color, int width, int height, int thickness, int energy) {
+    this.id = id;
     this.manufacturer = manufacturer;
     this.color = color;
     this.width = width;
     this.height = height;
     this.thickness = thickness;
     this.energy = energy;
+  }
+  public int getId () {
+    return this.id;
+  }
+  public void setId (int id) {
+    this.id = id;
   }
   public String getManufacturer () {
     return this.manufacturer;
@@ -62,6 +81,7 @@ public class Mobile {
     this.manufacturer = manufacturer;
   }
   public String getColor () {
+
     return this.color;
   }
   public void setColor (String color) {
@@ -108,7 +128,7 @@ class AppMobile {
     System.out.println("Height:" + objMobile1.getHeight());
     System.out.println("Thickness:" + objMobile1.getThickness());
     System.out.println("Energy:" + objMobile1.getEnergy());
-    Mobile objMobile2 = new Mobile("Apple");
+    Mobile objMobile2 = new Mobile("Nokia" );
     objMobile2.setHeight(12);
     objMobile2.setWidth(20);
     objMobile2.setEnergy(100);
@@ -121,5 +141,37 @@ class AppMobile {
 
   }
 
+  }
+  class MobileStore {
+  public Mobile [] listmobile;
+  public int numberOfMobile;
+  public MobileStore() {
+    listmobile = new Mobile[100];
+    this.numberOfMobile = 0;
+  }
+  public MobileStore(int height) {
+    listmobile = new Mobile[100];
+    this.numberOfMobile = 0;
+  }
+    public boolean addMobile (Mobile mobile) {
+      if( this.numberOfMobile < listmobile.length) {
+        listmobile[this.numberOfMobile] = mobile;
+        this.numberOfMobile++;
+        return true;
+      }
+      return  false;
+    }
+    public boolean sellMobile (String id ) {
+    for (int i = 0; i < this.numberOfMobile; i++) {
+        for (int j = i; j < this.numberOfMobile - 1; j++) {
+          listmobile[j] = listmobile [j + 1];
+        }
+        listmobile [this.numberOfMobile-1] = null;
+        this.numberOfMobile--;
+        return true;
+
+    }
+    return false;
+    }
   }
 

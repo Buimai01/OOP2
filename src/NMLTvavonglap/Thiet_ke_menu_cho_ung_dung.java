@@ -1,3 +1,5 @@
+package NMLTvavonglap;
+
 import java.util.Scanner;
 
 public class Thiet_ke_menu_cho_ung_dung {

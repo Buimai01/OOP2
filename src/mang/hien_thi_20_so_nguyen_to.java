@@ -1,3 +1,5 @@
+package mang;
+
 public class hien_thi_20_so_nguyen_to {
     public static void main(String[] args) {
        int n, count = 0;

@@ -1,3 +1,5 @@
+package mang;
+
 public class tim_gia_tri_nho_nhat_mang {
     public static void main(String[] args) {
        int numbers[] = new int[] {45, 23, 51, 12, 25, 32, 16, 98};

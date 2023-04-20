@@ -1,3 +1,5 @@
+package NMLTvavonglap;
+
 public class hinh_vuong {
     public static void main(String[] args) {
         int height = 3;

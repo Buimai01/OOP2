@@ -1,3 +1,5 @@
+package NMLTvavonglap;
+
 import java.util.Scanner;
 
 public class chuyendoitien {

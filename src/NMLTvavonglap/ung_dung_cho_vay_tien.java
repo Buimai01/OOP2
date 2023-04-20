@@ -1,3 +1,5 @@
+package NMLTvavonglap;
+
 import java.util.Scanner;
 
 public class ung_dung_cho_vay_tien {
